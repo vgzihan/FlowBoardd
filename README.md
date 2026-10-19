@@ -1,46 +1,17 @@
-# FlowBoardd
-Hi, I'm vggamer 👋
+# FlowBoard
 
-Aspiring Web Developer 💻
+A single-file, mobile-friendly task manager. All CSS and JavaScript are inside `index.html`.
 
-I'm a beginner developer learning web development by building projects and improving my coding skills.
+## Run locally
+Open `index.html` in a modern browser.
 
-🌱 About Me
+## Publish on GitHub Pages
+1. Upload `index.html` to the **root** of your GitHub repository (not inside another folder).
+2. Open the repository's **Settings → Pages**.
+3. Under **Build and deployment**, choose **Deploy from a branch**.
+4. Select branch `main` and folder `/ (root)`, then Save.
+5. Wait for deployment and open the published URL shown in Settings → Pages. It normally looks like `https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/`.
 
-- 💻 Learning and practising web development
-- 🚀 Building projects to gain experience
-- 📚 Exploring new technologies
-- 🎯 Aiming for my first developer job or internship
+Important: a GitHub `blob` URL shows the source code, and a `raw.githubusercontent.com` URL serves the raw file. Neither is the published website URL. Use the GitHub Pages URL to view the working site.
 
-🚀 Featured Project
-
-FlowBoard — Task Management Website
-
-A personal project designed to organize tasks and track progress.
-
-- ✅ Manage tasks and update statuses
-- 📊 Track task completion
-- 📱 Mobile-friendly interface
-- 🔒 Privacy-focused improvements
-
-🔗 GitHub: "Visit my profile" (https://github.com/vggamer)
-
-🌐 Live Demo: Add your website link here.
-
-🛠️ Skills
-
-Currently learning and improving my programming and web development skills through practical projects.
-
-🎯 Goals
-
-- Build useful projects
-- Improve problem-solving
-- Learn Git and GitHub
-- Contribute to open source
-- Prepare for developer opportunities
-
-🤝 Connect With Me
-
-- GitHub: "@vggamer" (https://github.com/vggamer)
-
-Thanks for visiting my profile! ⭐
+Tasks are stored in browser local storage on the current device and are not synced online.
